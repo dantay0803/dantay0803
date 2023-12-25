@@ -10,7 +10,6 @@ Hey! I'm Daniel. A software developer based in Scotland. I have a BSc(Hons) in c
 
 [<img align="left" alt="danielt.co.uk logo and link" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn logo and link" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter logo and link" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -32,6 +31,4 @@ Hey! I'm Daniel. A software developer based in Scotland. I have a BSc(Hons) in c
 
 [website]: https://www.danielt.co.uk/
 [linkedin]: https://www.linkedin.com/in/danielt0803/
-[twitter]: https://twitter.com/DanielTaylorDev
-[instagram]: https://www.instagram.com/danieltaylordev/
 [projects]: https://www.danielt.co.uk/#projects
